@@ -1,0 +1,42 @@
+body{
+    width: 1200px;
+    height: 500px;
+}
+#seujoao {
+    border-width: 0px;
+    position: absolute;
+    text-align: center;
+    width: 215px;
+    height: 90px;
+    left: 520px;
+    top: 109px; 
+    background-color: #d9d9d9;
+}
+#loginperson {
+    position: absolute;
+    width: 20px;
+    height: 22.7px;
+    left: 375px;
+    top: 309px;
+}
+#lockpass {
+    position: absolute; 
+    width: 36px;
+    height: 42px;
+    left: 380px;
+    top: 400px;
+}
+h1 {
+    font-size: 160%;
+    font-family: Georgia;
+}
+#password {
+    position: absolute;
+    left: 430px;
+    top: 407px;
+}
+#login {
+    position: absolute;
+    left: 430px;
+    top: 315px;
+}
